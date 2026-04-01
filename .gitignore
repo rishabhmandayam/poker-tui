@@ -229,3 +229,6 @@ Network Trash Folder
 Temporary Items
 .apdisk
 
+# Range files
+ranges/
+
